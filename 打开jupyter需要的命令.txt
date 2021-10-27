@@ -1,0 +1,4 @@
+# cd BAG2_cds_ff_mpt
+# source .bashrc
+# virtuoso &
+# ${BAG_JUPYTER} --allow-root --browser="firefox" tutorial_files
