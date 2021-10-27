@@ -1,2 +1,2 @@
 # AICircuitDesign
-AI电路设计群（南大内部）
+AI电路设计群
